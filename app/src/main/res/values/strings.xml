@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <string name="breaking_news">Breaking news</string>
+    <string name="search">Search</string>
+    <string name="progress_bar_status">Идет закгрузка…</string>
+    <string name="userFriendly_errorMessage">Ой, что-то пошло не так!</string>
+    <string name="saved_news">Saved news</string>
+</resources>
